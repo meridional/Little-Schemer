@@ -1,0 +1,14 @@
+This is an interpreter of a subset of Scheme language.
+
+You can use load command to load up script files (.scm).
+
+Commands:
+car
+cdr
+lambda
+not
+add
+subtract
+multiply
+equals
+load
