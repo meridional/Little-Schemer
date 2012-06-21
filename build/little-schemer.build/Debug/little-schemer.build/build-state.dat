@@ -1,0 +1,539 @@
+Tlittle-schemer
+v7
+r0
+t344876193.448604
+cCheck dependencies
+cProcessInfoPlistFile ./little-schemer.app/Contents/Info.plist Info.plist
+cCompileC build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/main.o /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/expression.o /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/expression.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/rational.o /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/rational.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/str.o /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/str.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/symbol.o /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/symbol.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/lst.o /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/lst.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/lambda.o /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/lambda.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/specialforms.o /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/specialforms.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/evalstate.o /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/evalstate.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/boolean.o /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/boolean.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/callable.o /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/callable.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cLd ./little-schemer.app/Contents/MacOS/little-schemer normal i386
+cTouch ./little-schemer.app
+
+N./little-schemer.app
+t1323183393
+s102
+
+N./little-schemer.app/Contents/Info.plist
+t1323183391
+s740
+
+N./little-schemer.app/Contents/MacOS/little-schemer
+t1323183393
+s229476
+
+N./little-schemer.app/Contents/PkgInfo
+t1323183391
+s8
+
+N/Developer-3.2.2/SDKs/MacOSX10.5.sdk
+c000000004B7D589B00000000000000EE
+t1266505883
+s238
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c000000004E57CFD40000000000006530
+t1314377684
+s25904
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004E57CFD40000000000006560
+t1314377684
+s25952
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c000000004E8D7F4D000000000032B6C0
+t1317896013
+s3323584
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/boolean.cpp
+c000000004CE461810000000000000188
+t1290035585
+s392
+i"boolean.h"
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/boolean.h
+c000000004CD6D038000000000000028A
+t1289146424
+s650
+i"genlib.h"
+i"expression.h"
+i"scanner.h"
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/boolean.o
+t1323183393
+s93056
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/callable.o
+t1323183393
+s92016
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/evalstate.o
+t1323183393
+s144544
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/expression.o
+t1323183391
+s96732
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/lambda.o
+t1323183392
+s120548
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/little-schemer.LinkFileList
+c000000004EDE2D1F00000000000005E2
+t1323183391
+s1506
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/lst.o
+t1323183392
+s115096
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/main.o
+t1323183391
+s106604
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/rational.o
+t1323183392
+s98600
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/specialforms.o
+t1323183392
+s176036
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/str.o
+t1323183392
+s98784
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/symbol.o
+t1323183392
+s93088
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/callable.cpp
+c000000004A1C16EF00000000000001AF
+t1243354863
+s431
+i"callable.h"
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/callable.h
+c000000004A1CB8F10000000000000412
+t1243396337
+s1042
+i"expression.h"
+i"map.h"
+i"vector.h"
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/cs106/bst.h
+c0000000049D510340000000000006C9F
+t1238700084
+s27807
+i"cmpfn.h"
+i"stack.h"
+i<cstdlib>
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/cs106/cmpfn.h
+c0000000049D510340000000000000324
+t1238700084
+s804
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/cs106/genlib.h
+c0000000049D5103400000000000005B5
+t1238700084
+s1461
+i<string>
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/cs106/libcs106.a
+c0000000049D512820000000000064DE8
+t1238700674
+s413160
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/cs106/map.h
+c0000000049D510340000000000004921
+t1238700084
+s18721
+i"genlib.h"
+i"vector.h"
+i<string>
+i<cstdlib>
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/cs106/scanner.h
+c0000000049D51034000000000000254E
+t1238700084
+s9550
+i"genlib.h"
+i<string>
+i<fstream>
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/cs106/set.h
+c0000000049D510340000000000003032
+t1238700084
+s12338
+i"cmpfn.h"
+i"bst.h"
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/cs106/stack.h
+c0000000049D5103400000000000014F2
+t1238700084
+s5362
+i"vector.h"
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/cs106/strutils.h
+c0000000049D51034000000000000087A
+t1238700084
+s2170
+i"genlib.h"
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/cs106/vector.h
+c0000000049D51034000000000000398F
+t1238700084
+s14735
+i"genlib.h"
+i"strutils.h"
+i<cstdlib>
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/evalstate.cpp
+c000000004CE46176000000000000063E
+t1290035574
+s1598
+i"evalstate.h"
+i"specialforms.h"
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/evalstate.h
+c000000004A1CC95E000000000000046F
+t1243400542
+s1135
+i"genlib.h"
+i"map.h"
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/expression.cpp
+c000000004CE4602A000000000000068B
+t1290035242
+s1675
+i"expression.h"
+i"scanner.h"
+i"genlib.h"
+i"rational.h"
+i"str.h"
+i"symbol.h"
+i"boolean.h"
+i"lst.h"
+i<iostream>
+i<cctype>
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/expression.h
+c000000004CD6CFCE00000000000004FE
+t1289146318
+s1278
+i"genlib.h"
+i"scanner.h"
+i"evalstate.h"
+i"map.h"
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/lambda.cpp
+c000000004CE4645700000000000002E2
+t1290036311
+s738
+i"genlib.h"
+i"lambda.h"
+i"symbol.h"
+i"strutils.h"
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/lambda.h
+c000000004CE4647B00000000000004E3
+t1290036347
+s1251
+i"genlib.h"
+i"expression.h"
+i"callable.h"
+i"symbol.h"
+i"vector.h"
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/lst.cpp
+c000000004CE460D70000000000000BBB
+t1290035415
+s3003
+i"genlib.h"
+i"lst.h"
+i"lambda.h"
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/lst.h
+c000000004A1B7AE400000000000004F3
+t1243314916
+s1267
+i"genlib.h"
+i"expression.h"
+i"vector.h"
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/main.cpp
+c000000004CE4601C00000000000005AD
+t1290035228
+s1453
+i<iostream>
+i<string>
+i"genlib.h"
+i"expression.h"
+i"evalstate.h"
+i"scanner.h"
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/rational.cpp
+c000000004CE460560000000000000902
+t1290035286
+s2306
+i"genlib.h"
+i"rational.h"
+i"strutils.h"
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/rational.h
+c000000004A1B837F0000000000000444
+t1243317119
+s1092
+i"expression.h"
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/specialform.h
+c000000004A1C1817000000000000017F
+t1243355159
+s383
+i"callable.h"
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/specialforms.cpp
+c000000004CE54F160000000000001ECC
+t1290096406
+s7884
+i"specialforms.h"
+i"expression.h"
+i"lst.h"
+i"symbol.h"
+i"boolean.h"
+i"set.h"
+i"lambda.h"
+i"rational.h"
+i"str.h"
+i"scanner.h"
+i<iostream>
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/specialforms.h
+c000000004CE5517F000000000000177F
+t1290097023
+s6015
+i<string>
+i"genlib.h"
+i"specialform.h"
+i"evalstate.h"
+i"vector.h"
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/str.cpp
+c000000004CE4606B0000000000000216
+t1290035307
+s534
+i"str.h"
+i<iostream>
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/str.h
+c000000004CE30AEB0000000000000257
+t1289947883
+s599
+i"expression.h"
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/symbol.cpp
+c000000004CE460830000000000000199
+t1290035331
+s409
+i"genlib.h"
+i"symbol.h"
+
+N/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/symbol.h
+c000000004A1B73C100000000000002EE
+t1243313089
+s750
+i"genlib.h"
+i"expression.h"
+i"evalstate.h"
+i<string>
+
+NInfo.plist
+c0000000049E06D260000000000000326
+t1239444774
+s806
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies344876191#344876191#0(0"0(0#1#0"17184470560#0"0#
+
+CCompileC build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/boolean.o /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/boolean.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s344876192.718856
+e344876193.201814
+r1
+xCompileC
+xbuild/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/boolean.o
+x/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/boolean.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/boolean.cpp344876192#344876193#0(0"0(0#0#64"/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/boolean.cpp2#1032"    cd /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac    setenv LANG en_US.US-ASCII    /Developer-3.2.2/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3.2.2/SDKs/MacOSX10.5.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/little-schemer.hmap -Wall -Wno-sign-compare -F. -Ics106 -Iinclude -I/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/DerivedSources/i386 -I/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/DerivedSources -fstack-check -c /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/boolean.cpp -o /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/boolean.o0#
+
+CCompileC build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/callable.o /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/callable.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s344876192.721003
+e344876193.173908
+r1
+xCompileC
+xbuild/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/callable.o
+x/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/callable.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/callable.cpp344876192#344876193#0(0"0(0#0#65"/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/callable.cpp2#1034"    cd /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac    setenv LANG en_US.US-ASCII    /Developer-3.2.2/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3.2.2/SDKs/MacOSX10.5.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/little-schemer.hmap -Wall -Wno-sign-compare -F. -Ics106 -Iinclude -I/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/DerivedSources/i386 -I/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/DerivedSources -fstack-check -c /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/callable.cpp -o /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/callable.o0#
+
+CCompileC build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/evalstate.o /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/evalstate.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s344876192.660300
+e344876193.240356
+r1
+xCompileC
+xbuild/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/evalstate.o
+x/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/evalstate.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/evalstate.cpp344876192#344876193#0(0"0(0#0#66"/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/evalstate.cpp2#1036"    cd /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac    setenv LANG en_US.US-ASCII    /Developer-3.2.2/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3.2.2/SDKs/MacOSX10.5.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/little-schemer.hmap -Wall -Wno-sign-compare -F. -Ics106 -Iinclude -I/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/DerivedSources/i386 -I/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/DerivedSources -fstack-check -c /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/evalstate.cpp -o /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/evalstate.o0#
+
+CCompileC build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/expression.o /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/expression.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s344876191.390702
+e344876191.990161
+r1
+xCompileC
+xbuild/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/expression.o
+x/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/expression.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/expression.cpp344876191#344876191#0(0"0(0#0#67"/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/expression.cpp2#1038"    cd /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac    setenv LANG en_US.US-ASCII    /Developer-3.2.2/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3.2.2/SDKs/MacOSX10.5.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/little-schemer.hmap -Wall -Wno-sign-compare -F. -Ics106 -Iinclude -I/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/DerivedSources/i386 -I/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/DerivedSources -fstack-check -c /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/expression.cpp -o /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/expression.o0#
+
+CCompileC build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/lambda.o /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/lambda.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s344876192.019438
+e344876192.720868
+r1
+xCompileC
+xbuild/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/lambda.o
+x/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/lambda.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/lambda.cpp344876192#344876192#0(0"0(0#0#63"/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/lambda.cpp2#1030"    cd /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac    setenv LANG en_US.US-ASCII    /Developer-3.2.2/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3.2.2/SDKs/MacOSX10.5.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/little-schemer.hmap -Wall -Wno-sign-compare -F. -Ics106 -Iinclude -I/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/DerivedSources/i386 -I/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/DerivedSources -fstack-check -c /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/lambda.cpp -o /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/lambda.o0#
+
+CCompileC build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/lst.o /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/lst.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s344876192.000401
+e344876192.718718
+r1
+xCompileC
+xbuild/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/lst.o
+x/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/lst.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/lst.cpp344876192#344876192#0(0"0(0#0#60"/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/lst.cpp2#1024"    cd /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac    setenv LANG en_US.US-ASCII    /Developer-3.2.2/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3.2.2/SDKs/MacOSX10.5.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/little-schemer.hmap -Wall -Wno-sign-compare -F. -Ics106 -Iinclude -I/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/DerivedSources/i386 -I/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/DerivedSources -fstack-check -c /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/lst.cpp -o /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/lst.o0#
+
+CCompileC build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/main.o /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s344876191.382934
+e344876192.000273
+r1
+xCompileC
+xbuild/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/main.o
+x/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/main.cpp344876191#344876192#0(0"0(0#0#61"/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/main.cpp17250592640#1026"    cd /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac    setenv LANG en_US.US-ASCII    /Developer-3.2.2/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3.2.2/SDKs/MacOSX10.5.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/little-schemer.hmap -Wall -Wno-sign-compare -F. -Ics106 -Iinclude -I/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/DerivedSources/i386 -I/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/DerivedSources -fstack-check -c /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/main.cpp -o /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/main.o0#
+
+CCompileC build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/rational.o /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/rational.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s344876191.392017
+e344876192.019307
+r1
+xCompileC
+xbuild/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/rational.o
+x/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/rational.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/rational.cpp344876191#344876192#0(0"0(0#0#65"/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/rational.cpp2#1034"    cd /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac    setenv LANG en_US.US-ASCII    /Developer-3.2.2/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3.2.2/SDKs/MacOSX10.5.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/little-schemer.hmap -Wall -Wno-sign-compare -F. -Ics106 -Iinclude -I/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/DerivedSources/i386 -I/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/DerivedSources -fstack-check -c /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/rational.cpp -o /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/rational.o0#
+
+CCompileC build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/specialforms.o /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/specialforms.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s344876192.021423
+e344876192.897828
+r1
+xCompileC
+xbuild/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/specialforms.o
+x/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/specialforms.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/specialforms.cpp344876192#344876192#0(0"0(0#0#69"/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/specialforms.cpp2#1042"    cd /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac    setenv LANG en_US.US-ASCII    /Developer-3.2.2/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3.2.2/SDKs/MacOSX10.5.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/little-schemer.hmap -Wall -Wno-sign-compare -F. -Ics106 -Iinclude -I/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/DerivedSources/i386 -I/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/DerivedSources -fstack-check -c /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/specialforms.cpp -o /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/specialforms.o0#
+
+CCompileC build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/str.o /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/str.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s344876191.393159
+e344876192.021156
+r1
+xCompileC
+xbuild/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/str.o
+x/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/str.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/str.cpp344876191#344876192#0(0"0(0#0#60"/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/str.cpp2#1024"    cd /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac    setenv LANG en_US.US-ASCII    /Developer-3.2.2/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3.2.2/SDKs/MacOSX10.5.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/little-schemer.hmap -Wall -Wno-sign-compare -F. -Ics106 -Iinclude -I/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/DerivedSources/i386 -I/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/DerivedSources -fstack-check -c /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/str.cpp -o /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/str.o0#
+
+CCompileC build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/symbol.o /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/symbol.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s344876191.990288
+e344876192.660163
+r1
+xCompileC
+xbuild/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/symbol.o
+x/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/symbol.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/symbol.cpp344876191#344876192#0(0"0(0#0#63"/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/symbol.cpp2#1030"    cd /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac    setenv LANG en_US.US-ASCII    /Developer-3.2.2/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-3.2.2/SDKs/MacOSX10.5.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/little-schemer.hmap -Wall -Wno-sign-compare -F. -Ics106 -Iinclude -I/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/DerivedSources/i386 -I/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/DerivedSources -fstack-check -c /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/symbol.cpp -o /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/symbol.o0#
+
+CLd ./little-schemer.app/Contents/MacOS/little-schemer normal i386
+s344876193.240473
+e344876193.444960
+r1
+xLd
+x./little-schemer.app/Contents/MacOS/little-schemer
+xnormal
+xi386
+lSLF07#2@55"Link ./little-schemer.app/Contents/MacOS/little-schemer344876193#344876193#0(0"0(0#0#0"2#582"    cd /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer-3.2.2/usr/bin/g++-4.2 -arch i386 -isysroot /Developer-3.2.2/SDKs/MacOSX10.5.sdk -L. -Lcs106 -L/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/cs106 -F. -filelist /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/build/little-schemer.build/Debug/little-schemer.build/Objects-normal/i386/little-schemer.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -framework Carbon -framework QuickTime -lcs106 -o ./little-schemer.app/Contents/MacOS/little-schemer0#
+
+CProcessInfoPlistFile ./little-schemer.app/Contents/Info.plist Info.plist
+s344876191.367993
+e344876191.381796
+r1
+xProcessInfoPlistFile
+x./little-schemer.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist344876191#344876191#0(0"0(0#0#63"/Users/jerrycainjr/Desktop/assn-7-little-schemer-mac/Info.plist17184811840#232"    cd /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac    builtin-infoPlistUtility Info.plist -genpkginfo ./little-schemer.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o ./little-schemer.app/Contents/Info.plist0#
+
+CTouch ./little-schemer.app
+s344876193.445112
+e344876193.448544
+r1
+xTouch
+x./little-schemer.app
+lSLF07#2@26"Touch ./little-schemer.app344876193#344876193#0(0"0(0#0#0"2#103"    cd /Users/jerrycainjr/Desktop/assn-7-little-schemer-mac    /usr/bin/touch -c ./little-schemer.app0#
+
